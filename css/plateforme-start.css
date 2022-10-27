@@ -1,0 +1,52 @@
+
+body 
+{
+     background-color: #2A9D8F;
+}
+
+h1 {
+    color: red ;
+}
+
+.imagetop {
+display: flex;
+justify-content: space-evenly;
+padding: 5%;
+
+}
+
+ul {
+    margin: 8px;
+    padding: 5px;
+    list-style-type: none;
+    display: flex;
+}
+
+li {  
+    padding : 5px;
+    margin: 5px;
+}
+
+a {
+ text-decoration: none;
+ color: blue;
+}
+
+p {
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    color: Black(255, 71, 71);
+    
+}
+
+lu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+.ptop{text-align:right ;
+
+}
+
+h2 {
+    color: red;
+}
+

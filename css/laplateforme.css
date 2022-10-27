@@ -1,0 +1,56 @@
+/*===============Style par d\'e9faut=================================*/\
+
+* {
+	box-sizing : border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+	background-color:white;
+	font-family : arial;
+}
+
+ul{
+	margin: 8px;
+	padding: 5px;
+   list-style-type: none;
+   display: flex;
+}
+
+
+ .page1 {
+	 border-radius:15%;
+	 width:50%;
+ }
+ 
+.presentation {
+	width:50%;
+	text-align:left;
+	font-size:20px;
+ }
+ 
+ a .bouton1{
+	 
+	border-radius:50%;
+ }
+ 
+ .para1{
+	 border: 2px solid ;
+	 border-radius:50px 20px;
+ }
+
+ li {  
+	   padding : 5px;
+	   margin: 5px;
+ }
+
+ a {
+	text-decoration: none;
+	color: blue;
+ }
+
+ .qui {
+	background-color: #E9C46A;
+ }
